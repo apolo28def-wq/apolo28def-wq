@@ -1,0 +1,47 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push generated SVG to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Save generated files temporarily
+          mkdir -p /tmp/snake-output
+          cp dist/*.svg /tmp/snake-output/
+
+          # Switch to output branch (create if doesn't exist)
+          git fetch origin output 2>/dev/null || true
+          git checkout output 2>/dev/null || git checkout --orphan output
+
+          # Clean and copy new files
+          rm -f *.svg
+          cp /tmp/snake-output/*.svg .
+
+          # Commit and push
+          git add *.svg
+          git commit -m "Atualizar cobrinha das contribuicoes" --allow-empty
+          git push origin output --force
