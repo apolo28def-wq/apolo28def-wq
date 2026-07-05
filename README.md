@@ -56,6 +56,20 @@ const apolo28def = {
 
 ---
 
+## 🐍 Contribuições do Ano
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apolo28def-wq/apolo28def-wq/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apolo28def-wq/apolo28def-wq/output/github-contribution-grid-snake.svg">
+    <img alt="Cobrinha comendo seus commits" src="https://raw.githubusercontent.com/apolo28def-wq/apolo28def-wq/output/github-contribution-grid-snake.svg" width="80%">
+  </picture>
+  <br/>
+  <sub><strong>🐍 A cobrinha se alimenta dos seus commits!</strong></sub>
+</div>
+
+---
+
 ## 🚀 Projetos em Destaque
 
 <div align="center">
