@@ -1,49 +1,49 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=apolo28def-wq&fontSize=36&fontAlignY=32&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<h1 align="center">Olá, eu sou o Luis Armando! 👋</h1>
 
-  <p>
-    <a href="mailto:apolo28def@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-    <a href="https://github.com/apolo28def-wq"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    <img src="https://komarev.com/ghpvc/?username=apolo28def-wq&color=blueviolet&style=flat-square&label=views" alt="views"/>
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--end%20Developer-Senior-blue.svg?style=flat-square&logo=react&logoColor=white" alt="Senior Frontend Developer">
+  <img src="https://img.shields.io/badge/São%20Luís%2C%20MA-Brasil-green.svg?style=flat-square&logo=google-maps&logoColor=white" alt="São Luís, MA - Brasil">
+</p>
 
-  <p>
-    <i>desenvolvedor · brasil 🌎</i><br/>
-    <code>html</code> <code>css</code> <code>javascript</code> <code>git</code>
-  </p>
-</div>
+## Sobre Mim
 
----
+Sou um Desenvolvedor Frontend Senior com paixão por criar interfaces de usuário intuitivas e envolventes. Tenho experiência em HTML5, CSS3, JavaScript e Git. Adoro aprender novas tecnologias e colaborar com outros desenvolvedores para criar soluções inovadoras.
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apolo28def-wq/apolo28def-wq/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apolo28def-wq/apolo28def-wq/output/github-contribution-grid-snake.svg">
-    <img alt="contribuições" src="https://raw.githubusercontent.com/apolo28def-wq/apolo28def-wq/output/github-contribution-grid-snake-dark.svg" width="85%">
-  </picture>
-</div>
+## Tecnologias e Ferramentas
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
-<div align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=apolo28def-wq&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&count_private=true"/>
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apolo28def-wq&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apolo28def-wq&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
+## Estatísticas do GitHub
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apolo28def-wq&show_icons=true&theme=dark" alt="Estatísticas do GitHub do apolo28def-wq">
+</p>
 
-<div align="center">
-  <a href="https://github.com/apolo28def-wq/Jogo_da_Cobrinha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=apolo28def-wq&repo=Jogo_da_Cobrinha&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apolo28def-wq&layout=compact&theme=dark" alt="Linguagens mais usadas do apolo28def-wq">
+</p>
+
+## Animação da Cobrinha
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/apolo28def-wq/apolo28def-wq/main/github-contribution-grid-snake.svg" alt="Animação da Cobrinha do GitHub">
+</p>
+
+## Contato e Redes Sociais
+
+<p align="center">
+  <a href="mailto:seu-email@email.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
-  <br/>
-  <sub>🍃</sub>
-</div>
+  <a href="https://www.linkedin.com/in/seu-perfil-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/apolo28def-wq">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
